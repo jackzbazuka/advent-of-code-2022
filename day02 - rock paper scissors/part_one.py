@@ -13,7 +13,8 @@ player_score_map = {
 
 def main() -> int:
     """
-    Returns:int: Total strategy score
+    Returns:
+        total_strategy_score: int
     """
     score = 0
 

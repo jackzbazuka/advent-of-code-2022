@@ -4,16 +4,11 @@ opponent_score_map = {
     "C": 3,
 }
 
-player_score_map = {
-    "X": 1,
-    "Y": 2,
-    "Z": 3,
-}
-
 
 def main() -> int:
     """
-    Returns:int: Total strategy score
+    Returns:
+        total_strategy_score: int
     """
     score = 0
 

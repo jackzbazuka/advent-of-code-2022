@@ -1,8 +1,8 @@
 def main() -> None:
     """
     Returns:
-        elf_index: number
-        elf_calories: number
+        elf_index: int
+        elf_calories: int
     """
 
     with open("calories.in", "r") as f:
